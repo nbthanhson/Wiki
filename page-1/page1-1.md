@@ -38,7 +38,7 @@ Appsflyer sends real-time postbacks to an external endpoint whenever specific in
 #### b. Configure Your Endpoint URL in Appsflyer
 - Log in to Appsflyer Dashboard.
 - Navigate to the **Export – API Access** section.
-![](..\image\img01.png)
+![](../image/img01.png)
 - Choose the app you want to integrate.
-![](..\image\img02.png)
+![](../image/img02.png)
 - Set Up Real-Time Postbacks.
